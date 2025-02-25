@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/K-lawIT/osticket-prereq)
-  - [osTicket: Post-Installation Configuration](https://github.com/K-lawIT)
+  - [osTicket: Post-Installation Configuration](https://github.com/K-lawIT/osTicket-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/K-lawIT)
 - <b>Microsoft Azure</b>
   - [Setting up Active Directory within Azure VMs](https://github.com/K-lawIT/ad-setup)
