@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/K-lawIT/osTicket-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/K-lawIT/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting up Active Directory within Azure VMs](https://github.com/K-lawIT/ad-setup)
+  - [Setting up Active Directory within Azure VMs](https://github.com/K-lawIT/AD-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/K-lawIT/azure-network-protocols)
 
 <h2>🤳Connect with My Socials!:</h2>
